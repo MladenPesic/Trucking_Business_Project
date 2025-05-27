@@ -88,7 +88,7 @@ Performed in **Power Query (Excel)** before importing to Power BI:
 
 ## 📊 Power BI Dashboard Overview
 
-![Power BI Dashboard Overview](assets/dashboard_overview.png)
+![Power BI Dashboard Overview](assets/Dashboard_overview.png)
 
 
 ## 📈 Business Insights

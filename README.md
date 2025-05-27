@@ -1,4 +1,4 @@
-# 🚚 U.S. Trucking Market Optimization – Power BI Dashboard
+# 🚚 Dispatching agency service optimization - U.S. Trucking Market
 
 ### 📊 A Business Intelligence Project Using Real Dispatching Data to Analyze Brokers, Lanes, and Profitability
 

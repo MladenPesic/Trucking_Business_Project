@@ -116,7 +116,12 @@ These insights allow us to adjust our dispatching strategy, improve route planni
 - Provides management with insights to **adjust lane strategies** and **negotiate rates more effectively**.
 
 ---
-
+📎 Files Included
+- README.md – Full project documentation
+- Project_data.xlsx – Cleaned and structured data
+- BusinessLogistics.pbix – Power BI dashboard
+- /assets/dashboard-overview.png – Dashboard image preview
+- LICENSE – Open-source license (MIT)
 
 ## 👨‍💼 About Me
 

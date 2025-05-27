@@ -84,8 +84,12 @@ Performed in **Power Query (Excel)** before importing to Power BI:
 - Top 5 Brokers by Load Volume
 - Top 5 Brokers by Highest RPM
 - 🗺️ **Shape Map**: RPM Distribution by State
-
 ---
+
+## 📊 Power BI Dashboard Overview
+
+![Power BI Dashboard Overview](assets/dashboard_overview.png)
+
 
 ## 📈 Business Insights
 

@@ -87,13 +87,21 @@ Performed in **Power Query (Excel)** before importing to Power BI:
 
 ---
 
-## 🔍 Business Insights
+## 📈 Business Insights
 
-> *Insert 2–3 bullet points based on your findings. Example:*
+This analysis provides valuable insights into current trucking trends in a challenging post-COVID economic climate. Based on real-world dispatching data for 50 trucks over several months, we uncovered the following:
 
-- The average rate per mile is skewed by a small number of outlier loads—median provides a more accurate benchmark.
-- Certain states (e.g., [state]) consistently offer better RPM and should be prioritized.
-- Some brokers offer high pay but lower load volume; others offer volume but lower rates—highlighting the trade-off in decision-making.
+- **Optimal Lanes**: The most profitable regions, based on a combination of load volume and rate per mile (RPM), include **Illinois (IL), California (CA), Texas (TX), and Pennsylvania (PA)**. Among these, **Illinois (IL)** stands out as the most lucrative due to its consistently high RPM.
+  
+- **Rate Distribution**: The **average rate per mile is higher than the median**, indicating the presence of **outliers** (extremely high-paying loads) skewing the average upward.
+
+- **Broker Insights**: To address this skew and find more reliable, consistent opportunities, we analyzed:
+  - The **top brokers by number of loads hauled**, and
+  - The **top brokers by highest RPM paid**
+  
+  This helps identify partners who offer **both high volume and high pay**, essential for optimizing dispatcher performance and profitability.
+
+These insights allow us to adjust our dispatching strategy, improve route planning, and prioritize broker relationships that maximize both earnings and efficiency.
 
 ---
 
@@ -105,14 +113,6 @@ Performed in **Power Query (Excel)** before importing to Power BI:
 
 ---
 
-## 📂 Project Structure
-Trucking-Dashboard-Project/
-│
-├── assets/ # Screenshots & GIFs
-├── data/ # Anonymized sample dataset
-├── pbix/ # Power BI source file
-├── exports/ # PDF/PNG exports of dashboard
-├── README.md # Project overview (this file)
 
 ## 👨‍💼 About Me
 

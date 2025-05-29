@@ -17,7 +17,7 @@ This project aims to **identify the highest-paying brokers and most profitable l
 - Analyze real operational data to gain visibility into dispatchers performance.
 - Identify the most profitable states and freight lanes by RPM (Rate Per Mile).
 - Highlight RPM trends and patterns.
-- Provide actionable KPIs to support better business decisions in dispatching.
+- Provide actionable conclusions to support better business decisions in dispatching.
 
 ---
 
@@ -32,7 +32,6 @@ This project aims to **identify the highest-paying brokers and most profitable l
   - Distance (miles)  
   - Total rate  
   - Rate per mile (calculated)  
-  - Load volume metrics  
 
 > **Note:** All company names were anonymized using a unique alphanumeric code for confidentiality.
 
